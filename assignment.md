@@ -4,12 +4,14 @@ We would like you to develop an app in React that renders objects from
 HealthCare.gov API https://www.healthcare.gov/developers/).
 
 When a user visits this app, they should see all the available content
-types (objects, collections, and index) in a drop-down list. When they
-select a content type, they should see a list of objects with the
-title, URL and excerpt. When they click on the title, they should see
-a separate page that renders all attributes of the object. When they
-press back in the browser, they should see the list of objects they
-previously selected.
+types (objects, collections, and index) in a drop-down list.
+
+When they select a content type, they should see a list of objects with the
+title, URL and excerpt. 
+
+When they click on the title, they should see a separate page that renders 
+all attributes of the object. When they press back in the browser, they 
+should see the list of objects they previously selected.
 
 Impress us with your UI skill and please include your automated tests.
 The estimate completion times will vary based on experience level, but
